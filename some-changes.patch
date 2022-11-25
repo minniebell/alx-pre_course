@@ -1,0 +1,14 @@
+diff --git a/0x01-git/bash/alx b/0x01-git/bash/alx
+index 313ca94..f860d12 100644
+--- a/0x01-git/bash/alx
++++ b/0x01-git/bash/alx
+@@ -1 +1,2 @@
+-#!/bin/bash echo "ALX" 
++#!/bin/bash
++echo "ALX School is cool!" 
+diff --git a/0x01-git/js/index.js b/0x01-git/js/index.js
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/0x01-git/js/main.js b/0x01-git/js/main.js
+deleted file mode 100644
+index e69de29..0000000
